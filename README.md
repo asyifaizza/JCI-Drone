@@ -6,7 +6,6 @@ A drone-focused website project designed to showcase drone products, provide inf
 
 - **Live Website:** [JCI-Drone Website](https://asyifaizza.github.io/JCI-Drone/)
 - **Figma Prototype:** [Explore the Interactive Prototype](https://www.figma.com/proto/vAHyQG6PcsI2yo32XqswjT/project-fix?node-id=0-140&p=f&t=gkhuSXlDEamcopoi-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
-- **GitHub Repository:** [asyifaizza/JCI-Drone](https://github.com/asyifaizza/JCI-Drone)
 
 ## 📖 About the Project
 
